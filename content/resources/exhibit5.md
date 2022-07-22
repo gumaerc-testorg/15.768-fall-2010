@@ -2,10 +2,11 @@
 content_type: resource
 description: This is used as the supporting file for employee involvement and data
   mining.
-file: /media/courses/15-768-management-of-services-concepts-design-and-delivery-fall-2010/c5e569fe33e4419514372d9783de6d7c_exhibit5.xlsx
+file: /courses/15-768-management-of-services-concepts-design-and-delivery-fall-2010/c5e569fe33e4419514372d9783de6d7c_exhibit5.xlsx
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,3 +15,4 @@ resourcetype: Other
 title: exhibit5.xlsx
 uid: c5e569fe-33e4-4195-1437-2d9783de6d7c
 ---
+This is used as the supporting file for employee involvement and data mining.
