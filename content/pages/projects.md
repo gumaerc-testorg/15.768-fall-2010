@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains guidelines for the course project and examples
+  of student projects for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -16,8 +18,8 @@ Student Project Examples
 
 All student project examples are courtesy of MIT students and are used with permission.
 
-Vapiano vs. Trattoria Il Panino ([PDF]({{< baseurl >}}/resources/mit15_768f10_paper01)) (Courtesy of Dori Davari, Terence Lam, Iulian Pogor, and Joao Violante. Used with permission.)
+Vapiano vs. Trattoria Il Panino ({{% resource_link 8067edb2-2cc1-6cf4-5457-74e70d243912 "PDF" %}}) (Courtesy of Dori Davari, Terence Lam, Iulian Pogor, and Joao Violante. Used with permission.)
 
-Trader Joe's vs. Whole Foods ([PDF]({{< baseurl >}}/resources/mit15_768f10_paper05))
+Trader Joe's vs. Whole Foods ({{% resource_link 122074ce-2154-0d03-2c3e-ee83794962ea "PDF" %}})
 
-Cleveland Clinic vs. CVS MinuteClinic ([PDF - 1.5MB]({{< baseurl >}}/resources/mit15_768f10_paper06))
+Cleveland Clinic vs. CVS MinuteClinic ({{% resource_link 9aaed448-7dae-f54f-0754-9b709b1d9904 "PDF - 1.5MB" %}})

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings, including books, cases, and
+  journal articles, for each session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 6ea9f202-90e1-5867-9830-5ee6186fc619
 ---
 
-Discussion questions for all assigned readings and cases can be found in the [Assignments]({{< baseurl >}}/pages/assignments) section of this course. Students must read all the assigned case studies, but are required to complete write-ups for only three of their choosing. A list of optional reading materials can be found in the [Syllabus]({{< baseurl >}}/pages/syllabus).
+Discussion questions for all assigned readings and cases can be found in the {{% resource_link 852850cc-2457-2898-82b2-3964d31dc571 "Assignments" %}} section of this course. Students must read all the assigned case studies, but are required to complete write-ups for only three of their choosing. A list of optional reading materials can be found in the {{% resource_link 9d34f88e-aabc-dc62-b425-4e0335c114e2 "Syllabus" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
