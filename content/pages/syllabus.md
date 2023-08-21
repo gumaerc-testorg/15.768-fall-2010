@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, intended audience, grading, class participation, the final
+  project, case write-ups, workload, and textbooks.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -77,7 +80,7 @@ Class Participation
 
 You will be graded on your contributions to create and enhance a _positive learning environment_ for this course. This includes enhancing the atmosphere and quality of classroom discussions, as well as interactions outside the classroom. Grading will be based on the quality and impact of your contributions, not primarily on quantity (although a minimum amount of the latter is necessary to deliver on the former).
 
-In a typical class session, one or more students will be asked to begin the discussion by addressing specific questions, found in the [Assignments]({{< baseurl >}}/pages/assignments) section of this course. If you have thoroughly prepared the case or reading, you should have no difficulty in handling such a leadoff request. After the leadoff initial analysis and recommendations, the discussion will be opened to the rest of the class, sometimes with cold calling mixed in. Some of the criteria for judging effective class participation include
+In a typical class session, one or more students will be asked to begin the discussion by addressing specific questions, found in the {{% resource_link 852850cc-2457-2898-82b2-3964d31dc571 "Assignments" %}} section of this course. If you have thoroughly prepared the case or reading, you should have no difficulty in handling such a leadoff request. After the leadoff initial analysis and recommendations, the discussion will be opened to the rest of the class, sometimes with cold calling mixed in. Some of the criteria for judging effective class participation include
 
 1.  Relevance,
 2.  Insightfulness (in analysis, observation, or questions),
@@ -90,14 +93,14 @@ Please plan to attend class on a regular basis and come to class prepared to par
 Final Project
 -------------
 
-The final project for this course is an opportunity to apply course concepts and to perform an in-depth analysis of operations strategy issues that are of interest to you. You may do this in a team (up to three people). More information can be found in the [Projects]({{< baseurl >}}/pages/projects) section of this course.
+The final project for this course is an opportunity to apply course concepts and to perform an in-depth analysis of operations strategy issues that are of interest to you. You may do this in a team (up to three people). More information can be found in the {{% resource_link 1ad10432-f179-6663-7995-5bdcb97b65ac "Projects" %}} section of this course.
 
 You should make very clear what part of your write-up is based on your own thinking and what part summarizes pre-existing outside sources. _Please cite all significant external sources used for your report_. This applies in particular to papers you may have written for other classes, to documents you may have received from the company you are analyzing, interviews with industry experts, etc. Building on external sources is by no means a "bad thing"–solid work is typically aware of and builds on what others have done. Ideally though, you should take this external information and add the filter of your own critical thinking and the concepts studied in this class to synthesize it, critique it, etc.
 
 Case Write-ups
 --------------
 
-There are approximately 20 cases in this course. Each person should write up three of these during the term. The first case write-up is worth 10% of the course grade, and the two subsequent cases are worth 15% each. A write-up is three-page analysis of the case, guided by the [Assignment Questions]({{< baseurl >}}/pages/assignments), any [Readings]({{< baseurl >}}/pages/readings) for the session, and any ideas discussed previously in the course.
+There are approximately 20 cases in this course. Each person should write up three of these during the term. The first case write-up is worth 10% of the course grade, and the two subsequent cases are worth 15% each. A write-up is three-page analysis of the case, guided by the {{% resource_link 852850cc-2457-2898-82b2-3964d31dc571 "Assignment Questions" %}}, any {{% resource_link 6ea9f202-90e1-5867-9830-5ee6186fc619 "Readings" %}} for the session, and any ideas discussed previously in the course.
 
 Electronic versions of the write-ups are due by noon of the day of class. Write-ups should be done individually. Please do not discuss with others (in or out of the class) the cases you choose to write up. Also, please do not seek outside (i.e., Internet) sources related to the details or analysis of the case.
 

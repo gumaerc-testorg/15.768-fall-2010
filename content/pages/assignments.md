@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a case overview, guidelines for case write-ups,
+  information on grading, and study questions for the cases and readings.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -310,7 +312,7 @@ Employee involvement and data mining
 
 _Case: IBM at Dillard's_
 
-For the following three questions, please feel free to use the following data: Exhibit 5 & Traffic data ([XLS]({{< baseurl >}}/resources/exhibit5))
+For the following three questions, please feel free to use the following data: Exhibit 5 & Traffic data ({{% resource_link c5e569fe-33e4-4195-1437-2d9783de6d7c "XLS" %}})
 
 1.  What is the relationship between conversion rates and labor?
 2.  Jim Mount, the manager of the Dillard's store in the case, is given the goal of having $120 sales per labor hour spent. Is he doing a good job of managing staffing levels?
