@@ -2,7 +2,7 @@
 content_type: resource
 description: This is used as the supporting file for employee involvement and data
   mining.
-file: /ol-ocw-studio-app/courses/15-768-management-of-services-concepts-design-and-delivery-fall-2010/c5e569fe33e4419514372d9783de6d7c_exhibit5.xlsx
+file: /courses/15-768-management-of-services-concepts-design-and-delivery-fall-2010/c5e569fe33e4419514372d9783de6d7c_exhibit5.xlsx
 file_size: 50260
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
