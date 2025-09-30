@@ -57,7 +57,7 @@ Process design: Order fulfillment
 {{< tdopen >}}
 
 
-Pink, Daniel H. "[Who Has the Next Big Idea?](http://www.fastcompany.com/magazine/50/hammer.html?page=0%2C0)" _Fast Company Magazine_, August 31, 2001.
+Pink, Daniel H. "{{% resource_link "244dd7e2-587e-45ee-b55d-2cef6ac6c2f6" "Who Has the Next Big Idea?" %}}" _Fast Company Magazine_, August 31, 2001.
 
 Hammer, Michael. "The Process Enterprise: An Executive Perspective." Hammer and Company, June 2001.
 
@@ -369,7 +369,7 @@ Web services, cloud computing and digital media
 {{< tdopen >}}
 
 
-Overby, Stephanie. "[The End of IT Outsourcing As We Know It](http://www.cio.com/article/603075/The_End_of_IT_Outsourcing_As_We_Know_It)." _CIO_, August 11, 2010.
+Overby, Stephanie. "{{% resource_link "b46847b9-bc61-4aa2-b695-adae6dd95c1e" "The End of IT Outsourcing As We Know It" %}}." _CIO_, August 11, 2010.
 
 _Case_
 
@@ -393,9 +393,9 @@ Womack, James P., Daniel T. Jones, and Daniel Roos. Chapters 1-3 in _The Machine
 
 Watch:
 
-CBS. "Making the World a 'Better Place'." March 19, 2009. YouTube. Accessed February 10, 2011. [http://www.youtube.com/watch?v=mXfqGL3C2uI&NR=1&feature=fvwp](http://www.youtube.com/watch?v=mXfqGL3C2uI&NR=1&feature=fvwp).
+CBS. "Making the World a 'Better Place'." March 19, 2009. YouTube. Accessed February 10, 2011. {{% resource_link "be11d109-a29f-46d6-a880-e83821eb20c6" "http://www.youtube.com/watch?v=mXfqGL3C2uI&NR=1&feature=fvwp" %}}.
 
-TEDtalksDirector. "Shai Agassi: A Bold Plan for Mass Adoption of Electric Cars." April 13, 2009. YouTube. Accessed February 10, 2011. [http://www.youtube.com/watch?v=FcoJt2KLC9k&feature=related](http://www.youtube.com/watch?v=FcoJt2KLC9k&feature=related)
+TEDtalksDirector. "Shai Agassi: A Bold Plan for Mass Adoption of Electric Cars." April 13, 2009. YouTube. Accessed February 10, 2011. {{% resource_link "319ebe57-568a-4d34-bc6a-6163f291b88d" "http://www.youtube.com/watch?v=FcoJt2KLC9k&feature=related" %}}
 
 
 {{< tdclose >}}
