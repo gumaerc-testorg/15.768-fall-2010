@@ -144,7 +144,7 @@ Womack, James P., Daniel T. Jones, and Daniel Roos. _The Machine that Changed th
 
 Klein, Janice A. _Revitalizing Manufacturing: Text and Cases_. Boca Raton, FL: CRC Press, 1990. ISBN: 9780256068092.
 
-{{% resource_link "2e55723f-b48b-4e5c-9ec1-6d8bc6b3e387" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dertouzos, Michael L., Richard K. Lester, and Robert M. Solow. {{% resource_link "2e55723f-b48b-4e5c-9ec1-6d8bc6b3e387" "_Made In America: Regaining the Productive Edge_" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 9780262041003.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262041003) Dertouzos, Michael L., Richard K. Lester, and Robert M. Solow. [_Made In America: Regaining the Productive Edge_](https://mitpress.mit.edu/9780262041003). Cambridge, MA: MIT Press, 1989. ISBN: 9780262041003.
 
 Cohen, Stephen S., and John Zysman. _Manufacturing Matters: The Myth of the Post-Industrial Economy_. New York, NY: Basic Books, 1988. ISBN: 9780465043859.
 
